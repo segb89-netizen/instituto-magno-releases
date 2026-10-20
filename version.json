@@ -1,4 +1,4 @@
 {
-  "libreria":  {"version": "1.6", "url": "https://github.com/segb89-netizen/instituto-magno-releases/releases/download/libreria-1.6/Libreria_update_1.6.zip", "notas": "Correccion al exportar Excel"},
+  "libreria":  {"version": "1.7", "url": "https://github.com/segb89-netizen/instituto-magno-releases/releases/download/libreria-1.7/Libreria_update_1.7.zip", "notas": "Correccion al exportar Excel (carpeta de datos con permisos + registro de errores)"},
   "uniformes": {"version": "1.2", "url": "https://github.com/segb89-netizen/instituto-magno-releases/releases/download/uniformes-1.2/Uniformes_update_1.2.zip", "notas": "Correccion al exportar Excel (inventario y otros)"}
 }
