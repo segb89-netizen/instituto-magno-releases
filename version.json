@@ -1,4 +1,4 @@
 {
-  "libreria":  {"version": "1.7", "url": "https://github.com/segb89-netizen/instituto-magno-releases/releases/download/libreria-1.7/Libreria_update_1.7.zip", "notas": "Correccion al exportar Excel (carpeta de datos con permisos + registro de errores)"},
-  "uniformes": {"version": "1.2", "url": "https://github.com/segb89-netizen/instituto-magno-releases/releases/download/uniformes-1.2/Uniformes_update_1.2.zip", "notas": "Correccion al exportar Excel (inventario y otros)"}
+  "libreria":  {"version": "1.8", "url": "https://github.com/segb89-netizen/instituto-magno-releases/releases/download/libreria-1.8/Libreria_update_1.8.zip", "notas": "Arreglo definitivo al exportar Excel + ventana maximizada"},
+  "uniformes": {"version": "1.3", "url": "https://github.com/segb89-netizen/instituto-magno-releases/releases/download/uniformes-1.3/Uniformes_update_1.3.zip", "notas": "Exportar Excel robusto + ventana maximizada"}
 }
