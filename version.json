@@ -1,5 +1,5 @@
 {
   "libreria":  {"version": "1.8", "url": "https://github.com/segb89-netizen/instituto-magno-releases/releases/download/libreria-1.8/Libreria_update_1.8.zip", "notas": "Arreglo definitivo al exportar Excel + ventana maximizada"},
   "uniformes": {"version": "1.3", "url": "https://github.com/segb89-netizen/instituto-magno-releases/releases/download/uniformes-1.3/Uniformes_update_1.3.zip", "notas": "Exportar Excel robusto + ventana maximizada"},
-  "cierre":    {"version": "1.1", "url": "https://github.com/segb89-netizen/instituto-magno-releases/releases/download/cierre-1.1/Cierre_update_1.1.zip", "notas": "Bajío y Banorte en lugar de Maestra y Cheques"}
+  "cierre":    {"version": "1.2", "url": "https://github.com/segb89-netizen/instituto-magno-releases/releases/download/cierre-1.2/Cierre_update_1.2.zip", "notas": "Copiar cuentas e importes por separado, sin tocar la columna B"}
 }
