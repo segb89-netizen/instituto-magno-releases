@@ -1,4 +1,4 @@
 {
   "libreria":  {"version": "1.8", "url": "https://github.com/segb89-netizen/instituto-magno-releases/releases/download/libreria-1.8/Libreria_update_1.8.zip", "notas": "Arreglo definitivo al exportar Excel + ventana maximizada"},
-  "uniformes": {"version": "1.5", "url": "https://github.com/segb89-netizen/instituto-magno-releases/releases/download/uniformes-1.5/Uniformes_update_1.5.zip", "notas": "Reportes a matriz: impresion directa a la impresora de matriz configurada (nitida)"}
+  "uniformes": {"version": "1.6", "url": "https://github.com/segb89-netizen/instituto-magno-releases/releases/download/uniformes-1.6/Uniformes_update_1.6.zip", "notas": "Reportes a matriz vuelven a abrir el cuadro de impresion"}
 }
